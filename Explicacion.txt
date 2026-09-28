@@ -1,0 +1,5 @@
+Práctica de GitHub y Visual Studio Code.
+Uxía Mariño Filgueira
+TIC II
+28/09/2026
+Estoy aprendiendo a crear repositorios, documentarlos y sincronizar cambios.
